@@ -15,5 +15,8 @@ public class App {
         new ArrayList();
 
         ArrayList anotherList = new ArrayList();
+
+        String url = "jdbc:mysql://localhost/test";
+        String u = "admin"; // hard-coded credential
     }
 }
